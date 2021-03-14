@@ -345,4 +345,4 @@ async def hello(ctx):
 
 
 
-bot.run('NzU5MzQyOTU0MjMzMjAwNjQw.X28HPA.IAMZf6dKepQqDYGPKwdbvgyny40')
+bot.run('NzU5MzQyOTU0MjMzMjAwNjQw.X28HPA.wUb_FDw0Hyv_Pr1kkYXIQVS1yOY')
